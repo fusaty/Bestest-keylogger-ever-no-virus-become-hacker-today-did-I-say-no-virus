@@ -1,0 +1,2 @@
+_for keylogger: https://thepythoncode.com/article/write-a-keylogger-python
+_for game: https://github.com/judemont/space-wars 
